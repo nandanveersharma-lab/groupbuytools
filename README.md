@@ -186,7 +186,7 @@ For questions, support, or feedback:
 - Documentation: [https://groupbuytools.org/docs](https://groupbuytools.org/docs)
 - Status page: [https://status.groupbuytools.org](https://status.groupbuytools.org)
 - Contact Us:  [https://groupbuytools.org/contact]
-
+- Tools Directory: [https://groupbuytools.org/group-buy-tools]
 ---
 
 *Empowering digital professionals with affordable access to premium tools since 2026.*

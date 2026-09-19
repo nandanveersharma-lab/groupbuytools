@@ -185,6 +185,7 @@ For questions, support, or feedback:
 - Email: support@groupbuytools.org
 - Documentation: [https://groupbuytools.org/docs](https://groupbuytools.org/docs)
 - Status page: [https://status.groupbuytools.org](https://status.groupbuytools.org)
+- Contact Us:  [https://groupbuytools.org/contact]
 
 ---
 
